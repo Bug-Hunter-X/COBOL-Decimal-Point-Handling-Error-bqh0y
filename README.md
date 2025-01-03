@@ -1,0 +1,1 @@
+This repository demonstrates a common COBOL error related to decimal point handling in arithmetic operations.  The bug occurs due to implicit data type conversion and truncation during calculations. The solution involves explicit data type handling and rounding to mitigate the issue.
